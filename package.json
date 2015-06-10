@@ -1,19 +1,19 @@
 {
-  "name": "passport-fitbit",
-  "version": "0.1.2",
+  "name": "passport-fitbit2",
+  "version": "0.1.3",
   "description": "Fitbit authentication strategy for Passport.",
   "keywords": ["passport", "fitbit", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-fitbit.git"
+    "url": "git://github.com/mbmccormick/passport-fitbit.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-fitbit/issues"
+    "url": "http://github.com/mbmccormick/passport-fitbit/issues"
   },
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Matt McCormick",
+    "email": "matt@mbmccormick.com",
+    "url": "http://mbmccormick.com/"
   },
   "licenses": [ {
     "type": "MIT",
